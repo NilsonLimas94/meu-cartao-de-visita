@@ -10,7 +10,7 @@
   <video src="./Assets/projeto-pronto.mp4" width="70%" controls autoplay loop muted></video>
 </div>
 
-> 🔗 **Deploy online:** [Clique aqui para visualizar o projeto no ar](https://seu-link-da-vercel.vercel.app) *(substitua pelo seu link da Vercel após o deploy)*
+> 🔗 **Deploy online:** [Clique aqui para visualizar o projeto no ar](https://meu-cartao-de-visita.vercel.app) *(substitua pelo seu link da Vercel após o deploy)*
 
 ---
 
