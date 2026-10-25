@@ -61,7 +61,7 @@ Como o projeto é construído em tecnologia web pura, não requer instalação d
 ## 👨‍💻 Autor
 
 Desenvolvido por **Nilson Limas Junior**  
-*Desenvolvedor FullStack*
+*Estudante de ADS | Desenvolvedor Web em formação*
 
 - 📧 **Email:** [nilsonlimasjunior@gmail.com](mailto:nilsonlimasjunior@gmail.com)
 
